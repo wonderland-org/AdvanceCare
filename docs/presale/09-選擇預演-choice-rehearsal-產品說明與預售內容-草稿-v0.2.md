@@ -4,11 +4,13 @@
 | :--- | :--- |
 | 產品線名稱 | 選擇預演 ChoiceRehearsal（`wonderland-advance-care-directive-app`） |
 | 產品線編號 | [待確認] 10 條產品線中的編號尚未提供。PMO ID：`C3-WC-ACP-F`；預售倉代碼未載明 [待確認] |
-| 所屬法人 | 事業體 Wonderland.center／水月道場（domain：`wonderland.center`；PMO Corporate 節點 `C1-WC-CORP`，代碼取自雲遊伴行 README）。**正式法人名稱（公司登記名稱）[待確認]** |
+| 所屬法人 | 事業體 水月道場 / Wonderland Center（domain：`wonderland.center`；PMO Corporate 節點 `C1-WC-CORP`，代碼取自雲遊伴行 README）。**正式法人名稱（公司登記名稱）[待確認]** |
 | 產出日期 | 2026-11-09（Asia/Taipei） |
-| 版本 | 草稿 v0.1 |
+| 版本 | 草稿 v0.2 |
 | 任務目標 | [假設] 同時更新 README 與產出預售說詞（使用者僅附上檔案，未另行指定範圍） |
 | 核心事實錨點 | 本次未另附獨立錨點。下文事實均摘自使用者提供之既有 README，**尚未升級為已確認錨點** |
+
+v0.2（2026-11-10）：依主 PMO 確認統一品牌名稱與官方網域為 斜槓一二三 / Slash123（slash1to3.com）、斜槓104 / Slash104（slash1ofours.com）、水月道場 / Wonderland Center（wonderland.center）；僅移除官方網域選擇的待確認標註，其餘待確認與內容維持草稿
 
 > ⚠️ **本產品核心聲明（所有對外文字必須保留）**：選擇預演嚴格定位為「教育與決策輔助工具」，**絕非醫療行為本身，亦不替代醫師臨床說明**。所有正式健保卡預立意願註記（不施行心肺復甦術、不施行維生醫療）均須導引至法定合法醫療機構完成。
 
@@ -17,7 +19,7 @@
 ## 1. 輸入確認
 
 - **產品線名稱／代號**：選擇預演 ChoiceRehearsal；倉儲 `wonderland-advance-care-directive-app`（`C3-WC-ACP-F`）；GitHub 組織 `wonderland-center`
-- **所屬法人**：README 徽章「Parent Legal Entity」Domain 為 `wonderland.center`；頁尾「版權所有 © 2026 水月道場 Wonderland.center」。
+- **所屬法人**：README 徽章「Parent Legal Entity」Domain 為 `wonderland.center`；頁尾「版權所有 © 2026 水月道場 / Wonderland Center」。
 - **跨事業體出現之處**：本 README 未提及 AllView 或 AEGIS。
 - **既有文件**：ChoiceRehearsal README（定位與核心聲明、願景、AI 輔助 vs. 真人服務邊界、架構、隱私與倫理、目錄、Quickstart、API、7 道 QA 閘門、聯絡矩陣）
 - **對應預售倉**：未載明 [待確認]
@@ -65,7 +67,7 @@
 
 ## 3. 產品概述
 
-選擇預演（ChoiceRehearsal）是 Wonderland.center（水月道場）規劃中的安寧緩和醫療意願**教育與決策輔助工具**。它想解決的是：民眾面對「無效 CPR、插管、呼吸器依賴」與「安寧緩和醫療」這些抽象選項時，常把安寧誤解為「放棄治療」。平台以個人化對照影片與互動沙盤推演，讓當事人與家屬在低壓力的環境下先看見不同選擇對生活品質與照護負荷的可能影響，並以條例知識庫回答常見疑問。
+選擇預演（ChoiceRehearsal）是 水月道場 / Wonderland Center規劃中的安寧緩和醫療意願**教育與決策輔助工具**。它想解決的是：民眾面對「無效 CPR、插管、呼吸器依賴」與「安寧緩和醫療」這些抽象選項時，常把安寧誤解為「放棄治療」。平台以個人化對照影片與互動沙盤推演，讓當事人與家屬在低壓力的環境下先看見不同選擇對生活品質與照護負荷的可能影響，並以條例知識庫回答常見疑問。
 
 所有模擬劇本須經安寧緩和專科醫師審核；在情緒波動、家庭意見分歧、醫學判斷與正式簽署等關鍵環節，由醫師、心理師與社工接手。本產品**不是醫療行為，不替代醫師臨床說明**；健保卡預立意願註記必須在法定醫療機構由專人見證完成，系統只產出預填表單並協助轉介。
 
@@ -122,7 +124,7 @@ README 未定義付費方或機構類型；以下帶 [假設] 者為推論。
 
 ## 6. 差異化定位
 
-**同法人（Wonderland.center）相鄰產品**
+**同法人（Wonderland Center）相鄰產品**
 
 - **vs. 數位回聲**：數位回聲重現已故者的聲音與思想；選擇預演使用**在世當事人**的肖像模擬未來醫療路徑，目的在決策教育。不可互相引用。
 - **vs. 雲遊伴行**：雲遊伴行以 XR 陪伴長者虛擬旅遊，生理感測僅調節旅程節奏；選擇預演不提供旅遊或陪伴，處理的是醫療意願教育。兩者都服務高齡族群，但不可把雲遊伴行說成照護決策工具，也不可把選擇預演說成陪伴服務。
@@ -191,7 +193,7 @@ A：本次未提供方案與價格，暫不對外陳述。
 # 選擇預演 ChoiceRehearsal
 
 > **PMO ID**：`C3-WC-ACP-F`（`wonderland-advance-care-directive-app`）  
-> **所屬法人／事業體**：Wonderland.center／水月道場（`wonderland.center`；PMO `C1-WC-CORP`）｜正式公司登記名稱 [待確認]  
+> **所屬法人／事業體**：水月道場 / Wonderland Center（`wonderland.center`；PMO `C1-WC-CORP`）｜正式公司登記名稱 [待確認]  
 > **文件狀態**：草稿，待人工審核
 
 > ⚠️ **核心聲明**：本系統嚴格定位為「教育與決策輔助工具」，絕非醫療行為本身，亦不替代醫師臨床說明。所有正式健保卡預立意願註記（不施行心肺復甦術、不施行維生醫療）均須導引至法定合法醫療機構完成。
@@ -294,7 +296,7 @@ A：本次未提供方案與價格，暫不對外陳述。
 - Repo Admin：`admin-wonderland-advance-care-directive-app@wonderland.center`
 - CSIRT：`github-security@wonderland.center`（[待確認] 是否為正式對外窗口）
 
-*© 2026 水月道場 Wonderland.center。授權條款 [待確認]。*
+*© 2026 水月道場 / Wonderland Center。授權條款 [待確認]。*
 ```
 
 ---
@@ -306,4 +308,4 @@ A：本次未提供方案與價格，暫不對外陳述。
 3. **法源範圍**：倉儲名為 advance-care-directive（ACP），內容只引用《安寧緩和醫療條例》；是否涵蓋《病人自主權利法》流程。
 4. **真人服務量能與合作院所**：專科醫師、心理師、社工、合作醫療院所的實際來源與服務時段（「24 小時」不對外承諾）；親友肖像同意流程。
 5. **量化指標依據**：生活品質、照顧壓力等指標的資料來源與臨床驗證；API 範例值不得對外使用。
-6. **本文件狀態**：草稿 v0.1，**尚未最終確認**。
+6. **本文件狀態**：草稿 v0.2，**尚未最終確認**。
