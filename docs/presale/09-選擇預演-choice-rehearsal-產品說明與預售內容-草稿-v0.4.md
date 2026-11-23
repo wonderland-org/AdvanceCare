@@ -4,7 +4,7 @@
 | :--- | :--- |
 | 產品線名稱 | 善終守護 AdvanceCare（預售產品代碼 `C2-WC-ACP`）；來源文件的功能用語不另作對外產品命名 |
 | 產品線編號 | [待確認] 10 條產品線中的編號尚未提供。PMO ID：`C3-WC-ACP-F`；預售產品代碼 `C2-WC-ACP`（t12u 確認） |
-| 所屬法人 | 品牌 水月道場 / Wonderland Center（網域 `wonderland.center`；PMO `C1-WC-CORP`）；法人名稱 **水月道場有限合夥（WonderLand Center） [暫定]**，登記狀態、正式登記名稱與設立沿革 [待確認]；營利／非營利性質 [待確認] |
+| 所屬法人 | 品牌 水月道場 / Wonderland Center（網域 `wonderland.ngo`；PMO `C1-WC-CORP`）；法人名稱 **水月道場有限合夥（WonderLand Center） [暫定]**，登記狀態、正式登記名稱與設立沿革 [待確認]；營利／非營利性質 [待確認] |
 | 產出日期 | 2026-11-12（Asia/Taipei） |
 | 版本 | 草稿 v0.4 |
 | 任務目標 | 依 t12u 及使用者本次補充修訂相關事實、品牌文字與預售草稿；不延伸未確認之功能或法律主張 |
@@ -14,7 +14,7 @@ v0.4（2026-11-12，Asia/Taipei）：依 t14u 新增「代收預售款授權及�
 
 v0.3（2026-11-11，Asia/Taipei）：依 t12u 更新暫定法人名稱、三條產品命名、2027-02-15 交付期、標準個資政策方向及跨法人託管資料；保留登記／法務／託管安排待確認及草稿標註；品牌與網域確認不視為核准。
 
-v0.2（2026-11-10）：依主 PMO 確認統一品牌名稱與官方網域為 斜槓一二三 / Slash123（slash1to3.com）、斜槓104 / Slash104（slash1ofours.com）、水月道場 / Wonderland Center（wonderland.center）；僅移除官方網域選擇的待確認標註，其餘待確認與內容維持草稿
+v0.2（2026-11-10）：依主 PMO 確認統一品牌名稱與官方網域為 斜槓一二三 / Slash123（slash1to3.com）、斜槓104 / Slash104（slash1ofours.com）、水月道場 / Wonderland Center（wonderland.ngo）；僅移除官方網域選擇的待確認標註，其餘待確認與內容維持草稿
 
 > ⚠️ **本產品核心聲明（所有對外文字必須保留）**：選擇預演嚴格定位為「教育與決策輔助工具」，**絕非醫療行為本身，亦不替代醫師臨床說明**。所有正式健保卡預立意願註記（不施行心肺復甦術、不施行維生醫療）均須導引至法定合法醫療機構完成。
 
@@ -25,7 +25,7 @@ v0.2（2026-11-10）：依主 PMO 確認統一品牌名稱與官方網域為 斜
 來源文件用語對照：數位回聲／Digital Echo／Wonderland Digital Memory、選擇預演／ChoiceRehearsal、雲遊伴行／WanderCompanion 僅保留作來源功能描述；對外產品名稱依 t12u 為永恆記憶 EternalMemory、善終守護 AdvanceCare、寰宇無界 SeniorTravel。既有技術識別字與原始水印字串不因產品命名而自行變更；實際 README.md 僅於存在過時品牌文字時依使用者補充修字，不以本草稿建議版全文覆寫。
 
 - **產品線名稱／代號**：善終守護 AdvanceCare；倉儲 `wonderland-advance-care-directive-app`（`C3-WC-ACP-F`）；GitHub 組織 `wonderland-center`；預售產品代碼 `C2-WC-ACP`（t12u 確認）
-- **所屬法人**：品牌 水月道場 / Wonderland Center（網域 `wonderland.center`；PMO `C1-WC-CORP`）；法人名稱 **水月道場有限合夥（WonderLand Center） [暫定]**，登記狀態、正式登記名稱與設立沿革 [待確認]；營利／非營利性質 [待確認]。既有 README 的公益定位僅供參考，不構成法人已完成登記的證據。
+- **所屬法人**：品牌 水月道場 / Wonderland Center（網域 `wonderland.ngo`；PMO `C1-WC-CORP`）；法人名稱 **水月道場有限合夥（WonderLand Center） [暫定]**，登記狀態、正式登記名稱與設立沿革 [待確認]；營利／非營利性質 [待確認]。既有 README 的公益定位僅供參考，不構成法人已完成登記的證據。
 - **跨事業體出現之處**：本 README 未提及 AllView 或 AEGIS。
 - **既有文件**：ChoiceRehearsal README（定位與核心聲明、願景、AI 輔助 vs. 真人服務邊界、架構、隱私與倫理、目錄、Quickstart、API、7 道 QA 閘門、聯絡矩陣）
 - **對應預售產品代碼**：`C2-WC-ACP`（t12u 確認）；來源 C3 文件的獨立預售倉名稱／路徑仍 [待確認]，不自行改名。
@@ -224,7 +224,7 @@ A：本次未提供方案與價格，暫不對外陳述。
 # 善終守護 AdvanceCare
 
 > **PMO ID**：`C3-WC-ACP-F`（`wonderland-advance-care-directive-app`）  
-> **所屬法人／事業體**：品牌 水月道場 / Wonderland Center（網域 `wonderland.center`；PMO `C1-WC-CORP`）；法人名稱 **水月道場有限合夥（WonderLand Center） [暫定]**，登記狀態、正式登記名稱與設立沿革 [待確認]；營利／非營利性質 [待確認]
+> **所屬法人／事業體**：品牌 水月道場 / Wonderland Center（網域 `wonderland.ngo`；PMO `C1-WC-CORP`）；法人名稱 **水月道場有限合夥（WonderLand Center） [暫定]**，登記狀態、正式登記名稱與設立沿革 [待確認]；營利／非營利性質 [待確認]
 > **文件狀態**：草稿，待人工審核
 
 > ⚠️ **核心聲明**：本系統嚴格定位為「教育與決策輔助工具」，絕非醫療行為本身，亦不替代醫師臨床說明。所有正式健保卡預立意願註記（不施行心肺復甦術、不施行維生醫療）均須導引至法定合法醫療機構完成。
@@ -320,12 +320,12 @@ A：本次未提供方案與價格，暫不對外陳述。
 
 ## 聯絡
 
-- Dev Lead：`dev-wonderland-advance-care-directive-app@wonderland.center`
-- Collaborator：`collab-wonderland-advance-care-directive-app@wonderland.center`
-- QA Lead：`qa-wonderland-advance-care-directive-app@wonderland.center`
-- Medical Advisor：`medical-wonderland-advance-care-directive-app@wonderland.center`
-- Repo Admin：`admin-wonderland-advance-care-directive-app@wonderland.center`
-- CSIRT：`github-security@wonderland.center`（[待確認] 是否為正式對外窗口）
+- Dev Lead：`dev-wonderland-advance-care-directive-app@wonderland.ngo`
+- Collaborator：`collab-wonderland-advance-care-directive-app@wonderland.ngo`
+- QA Lead：`qa-wonderland-advance-care-directive-app@wonderland.ngo`
+- Medical Advisor：`medical-wonderland-advance-care-directive-app@wonderland.ngo`
+- Repo Admin：`admin-wonderland-advance-care-directive-app@wonderland.ngo`
+- CSIRT：`github-security@wonderland.ngo`（[待確認] 是否為正式對外窗口）
 
 *© 2026 水月道場 / Wonderland Center。授權條款 [待確認]。*
 ```
